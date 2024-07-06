@@ -1,0 +1,211 @@
+[
+    {
+      "name": "IBA Gold Jewellery",
+      "price":"4446",
+      "description": " Made of 24k purity this Rose Coin weighs 1 gm and is minted to perfection using advanced technology.",
+      "rating":4.5,
+      "image": ["https://navrathan.com/wp-content/uploads/2022/02/Adorned-Gold-Haar-Latest-Gold-Jewellery-Designs-1024x1024.jpg"],
+       "category":"jewellery",
+        "seller":"IBA  Shop",
+        "stock":5
+    },
+    {
+        "name": "IBA Gold Jewellery",
+        "price": "5055",
+      "description":
+        "A beautiful and versatile necklace band merges with an intricately carved circular pendant, lined with lattice work on one side and a bouquet of tiny flowers on the other. The earrings, inspired by the pendant, add to the style for a complete look.",
+      "rating":4.5,
+      "image": ["https://www.lalithaajewellery.com/assets/img/purity.jpg"],
+     "category":"jewellery",
+      "seller":"IBA  Shop",
+      "stock":5
+      
+    },
+    {
+        "name": "IBA Gold Jewellery",
+        "price": "4862.00",
+      "description":
+        "This traditional one gram gold plated beaded patta necklace set with jhumki earring is perfect for women and girls.",
+       "rating":4.5,
+       "image":[
+       "https://i.pinimg.com/474x/53/54/2c/53542c3894e81d85b9cc840aed10b248.jpg"
+       ],
+     "category":"jewellery",
+      "seller":"IBA  Shop",
+      "stock":5
+    
+    },
+    {
+       "name": "IBA Gold Jewellery",
+        "price": " 55961.00",
+      "description":
+        " The classic and elegant always keep pace with fashion,which will make a timeless accessory to any jewelry collection. ",
+       "rating":4.5,
+       "image":[
+        "https://i.pinimg.com/550x/fc/aa/dd/fcaaddff819bc90debe0c50714d11083.jpg"
+        ],
+     "category":"jewellery",
+     "seller":"IBA  Shop",
+      "stock":5
+     
+     
+    },
+    {
+      "name": "IBA Gold Jewellery",
+      "price": " 2470",
+      "description":
+        " Celebrate the beauty of tradition with this Necklace Set, featuring intricate temple designs and exquisite craftsmanship.",
+     "rating":4.5,
+     "image":[
+     "https://www.goldzouq.com/media/product_image/Traditional_gold_necklace_design_for_brides_CJCGN028.jpg"
+    ],
+     "category":"jewellery",
+      "seller":"IBA  Shop",
+      "stock":5
+     
+     
+    },
+    {
+      "name": "IBA Gold Jewellery",
+      "price": "3543",
+      "description":
+        " Add a touch of charm to your everyday wear with this Necklace,showcasing intricate geometric designs.",
+      "rating":4.5,
+      "image":[
+      "https://www.mithragold.com/product_image/s1200__aHR0cHM6Ly9tZWRpYS5kYXJqZXdlbGxlcnkuaW4vcHJvZHVjdF9pbWFnZXMvczEyMDBfXzE2NzA2NjYwMTE4MzkuanBn/22-kt-gold-antique-necklace.jpg"
+      ],
+     "category":"jewellery",
+     "seller":"IBA Shop",
+      "stock":5
+     
+     
+    },
+   
+    {
+     "name": "IBA Gold Bangle ",
+     "price": "25490 ",
+      "description":
+        "  Owing to Marathi religious & traditional value, we offer exquisite range of latest designs for Indian traditional gold diamond jewellery, maharashtrian wedding.",
+       "rating":4.5,
+        "image":[
+        "https://i.pinimg.com/736x/ef/f6/ae/eff6aea3effc9e9e42db83aa687a1971.jpg"
+        ],
+     "category":"Bangle",
+      "seller":"IBA Shop",
+      "stock":5
+      
+    },
+    {
+       "name": "IBA Gold Bangle ",
+       "price": "26054",
+      "description":
+        " Take a step ahead with Jewelsmart! We're here to help you look and feel your best. Our wide selection of One Gram Gold Bangles, and more.",
+       "rating":4.5,
+       "image":[
+       "https://i.pinimg.com/736x/78/7c/48/787c48361d498b7dcb35d140bce15c86.jpg"
+       ],
+     "category":"Bangle",
+      "seller":"IBA Shop",
+       "stock":5
+
+    },
+    {
+      "name": "IBA Gold Bangle ",
+      "price": "26672",
+      "description":
+        "  Our collections across all the artforms of India are sure to impress you with its variety, quality, and affordability, which will make  you look and feel your best.",
+     "rating":4.5,
+     "image":[
+     "https://www.luxurionworld.com/cdn/shop/products/PJ1B5HI123062818_Golden_Kundan_Bangles.jpg?v=1687948511"
+     ],
+     "category":"Bangle",
+      "seller":"IBA  Shop",
+      "stock":5
+     
+    
+    },
+    {
+      "name": "IBA Gold Bangle ",
+       "price": " 24355 ",
+      "description":
+        " Kushal's Fashion Jewellery Flower Motif Antique Bangle One of the common issues with antique bangles is that you cannot pair them with other accessories easily due to their intricate work details. ",
+       "rating":4.5,
+       "image":[
+       "https://www.kushals.com/cdn/shop/files/antique-bangle-antique-bangle-162025-38615082205340_1024x1024.jpg?v=1717239873"
+       ],
+     "category":"Bangle",
+     "seller":"IBA  Shop",
+      "stock":5
+
+    },
+    {
+      "name": "IBA Gold Bangle ",
+      "price": "25521",
+      "description":
+        "  Perfect for office or casual wear, these refined dotted gold Bangles enhances your look with its polished finish and subtle pattern.",
+       "rating":4.5,
+      "image":[
+        "https://www.chidambaramgoldcovering.com/image/cache/catalog/ChidambaramGoldCovering/bangles/plain-bangles/br1657-latest-slim-gold-forming-bangle-for-ladies-one-gram-gold-jewellery-1-850x1000.jpg"
+        ],
+     "category":"Bangle",
+      "seller":"IBA  Shop",
+      "stock":5
+      
+     
+    },
+    {
+      "name": "IBA Gold Bangle ",
+      "price": " 12901 ",
+      "description":
+        " A unique design adds a touch of artistic flair to your wardrobe, an exceptional choice for women who appreciate elegance with an edge.",
+     "rating":4.5,
+     "image":[
+     "https://www.caratlane.com/blog/wp-content/uploads/2022/08/IMG_2540-1.jpg"
+     ],
+     "category":"Bangle",
+      "seller":"IBA  Shop",
+      "stock":5
+    },
+    {
+     "name": "IBA Gold Earring ",
+     "price": " 22524 ",
+      "description":
+        "Adorn your everyday elegance with these Jhumkis, where delicate wavy design mirror the joyous ripples of life, while each filigree detail spins tales of timeless elegance.",
+        "rating":4.5,
+        "image":[
+        "https://dreamjwell.com/cdn/shop/products/DSC_5670.jpg?v=1674633825"
+        ],
+     "category":"Earring",
+     "seller":"IBA  Shop",
+      "stock":5
+     
+     
+    },
+    {
+      "name": "IBA Gold Earring ",
+       "price": " 227",
+      "description":
+        "24K Plain Gold Drop Earrings in floral design for women from our plain gold jewellery collection. Wear these fashionable gold earrings on everyday casual wear, work wear, or party wear.",
+      "rating":4.5,
+      "image":[
+        "https://www.kushals.com/cdn/shop/files/antique-earring-ruby-green-gold-antique-earring-151815-38464339148956_1024x1024.jpg?v=1716277406"
+        ],
+     "category":"jewellery",
+      "seller":"IBA  Shop",
+      "stock":5
+
+    },
+    {
+      "name": "IBA Gold Earring ",
+      "price": " 991 ",
+      "description":
+        "This pair of gold jhumkas combine the fresh beauty of the lotus, the traditional jhumka and a bold modern design. The simple cut out petal pattern gives the earrings a mesmerising charm.",
+     "rating":4.5,
+     "image":["https://miyasjewels.com/wp-content/uploads/2022/09/MJ5031-3.webp"],
+     "category":"Earing",
+      "seller":"IBA  Shop",
+      "stock":5
+       
+    }
+   
+  ]
